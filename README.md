@@ -1,5 +1,8 @@
 # Shopping-Site
-Shopping site with ASP.NET core MVC 6
+Shopping site with ASP.NET core MVC 6 → 
+## Identity
+## code first
+## entity fram work
 
 
 
