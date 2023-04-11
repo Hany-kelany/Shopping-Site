@@ -2,6 +2,9 @@
 Shopping site with ASP.NET core MVC 6
 Shopping
 
+### Products
+![products](products.png)
+
 ### Shopping
 ![Shopping](mShopping.png)
 
@@ -12,8 +15,7 @@ Shopping
 ![Login](Register.png)
 
 
-### Products
-![products](products.png)
+
 
 
 ### Shopping
