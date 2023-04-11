@@ -20,8 +20,6 @@ Entity fram work
 ### Shopping
 ![Shopping](mShopping.png)
 
-### Login
-![Login](Login.png)
 
 ### Register
 ![Login](Register.png)
